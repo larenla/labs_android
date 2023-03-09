@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pra3</string>
+    <string name="yellow">Выбран жёлтый</string>
+    <string name="green">Выбран зелёный</string>
+    <string name="red">Выбран красный</string>
+    <string name="mYellow">желтый</string>
+</resources>
